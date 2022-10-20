@@ -1,5 +1,6 @@
 # Multiplying-two-matrix
 
+
 ## AIM:
 
 
@@ -38,6 +39,9 @@ Print the product of two arrays.
 
 
 
+
+
+
 ## PROGRAM:
 ```python
 To write a python program for multiplying two matrix.
@@ -55,7 +59,6 @@ for i in range(x):
 arr1 = np.array(l1)
 arr2 = np.array(l2)
 print("Product of two arrays is:",arr1*arr2)
-
 ```
 
 ## OUTPUT:
