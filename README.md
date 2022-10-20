@@ -27,13 +27,14 @@ Use for loop to append the values into the list created.
 
 Print the product of two arrays.
 
+
+
 ## PROGRAM:
 
 ```python
 To write a python program for multiplying two matrix.
 Developed by: DHARSHAN V
 Register no: 22003103
-
 
 import numpy as np
 x = int(input())
