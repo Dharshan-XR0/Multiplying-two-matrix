@@ -2,10 +2,12 @@
 
 ## AIM:
 
+
 To write a python program for multiplying two matrix.
 
 
 ## Equipments Required:
+
 
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
@@ -16,15 +18,19 @@ To write a python program for multiplying two matrix.
 ### Step 1:
 
 Import Numpy as np.
+
 ### Step 2:
 
 Get input from the user.
+
 ### Step 3:
 
 Create empty lists l1 and l2.
+
 ### Step 4:
 
 Use for loop to append the values into the list created.
+
 ### Step 5:
 
 Print the product of two arrays.
