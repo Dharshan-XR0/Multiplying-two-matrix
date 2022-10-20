@@ -4,8 +4,9 @@
 To write a python program for multiplying two matrix.
 
 
-## EQUIPEMENT'S REQUIRED: 
-PC
+## Equipments Required:
+1. Hardware – PCs
+2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 
 ## ALGORITHM:
