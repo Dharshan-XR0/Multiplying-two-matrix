@@ -31,8 +31,8 @@ Print the product of two arrays.
 
 
 
-## PROGRAM:
 
+## PROGRAM:
 ```python
 To write a python program for multiplying two matrix.
 Developed by: DHARSHAN V
