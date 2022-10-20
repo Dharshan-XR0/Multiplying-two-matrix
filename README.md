@@ -3,6 +3,11 @@
 ## AIM:
 To write a python program for multiplying two matrix.
 
+
+## EQUIPEMENT'S REQUIRED: 
+PC
+
+
 ## ALGORITHM:
 
 ### Step 1:
@@ -22,6 +27,7 @@ Use for loop to append the values into the list created.
 Print the product of two arrays.
 
 ## PROGRAM:
+
 ```python
 To write a python program for multiplying two matrix.
 Developed by: DHARSHAN V
